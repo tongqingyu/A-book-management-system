@@ -10,14 +10,14 @@ Architecture of Project:
 Frontend                        
 
 User Interface
--------------------------------------------
-                   
-                   
-                   -------------------------------------------            
-Backend                        Service Layer 
-                   -------------------------------------------
-                            Business Logic layer
-                   -------------------------------------------
-                             Data Access Layer
-                   -------------------------------------------
-                               Data Storage
+***
+
+
+***          
+Service Layer 
+***
+Business Logic layer
+***
+Data Access Layer
+***
+Data Storage
